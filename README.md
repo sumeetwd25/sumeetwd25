@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @sumeetwd25:ninja:
 - 👀 I’m interested in ...learning new technologies:computer:
-- 🌱 I’m currently learning ...Java, React JS, HTML, MySQL, SpringBoot:rocket:
+- 🌱 I’m currently learning ...Java, ReactJS, HTML, MySQL, SpringBoot:rocket:
 - 💞️ I’m looking to collaborate on ...some cool projects:books:
 - 📫 How to reach me ...sumeetwd25@gmail.com:email:
 
