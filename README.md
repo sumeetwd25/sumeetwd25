@@ -17,7 +17,7 @@ I'm a passionate developer experienced in a variety of technologies and language
 ## 👯 Let's Collaborate
 
 - I'm always open to collaborating on interesting projects.
-- Feel free to reach out to me on [LinkedIn]([(https://www.linkedin.com/in/sumeet-wadile-421a3727a)]).
+- Feel free to reach out to me on [LinkedIn](https://www.linkedin.com/in/sumeet-wadile-421a3727a).
 
 ## 💬 Ask Me About
 
