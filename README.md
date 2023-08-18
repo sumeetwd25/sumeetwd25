@@ -28,7 +28,7 @@ I'm a passionate developer experienced in a variety of technologies and language
 
 ## 📫 How to Reach Me
 
-- Connect with me on [Twitter][(https://github.com/sumeetwd25)].
+- Connect with me on [Twitter][https://github.com/sumeetwd25].
 - Drop me an email at sumeetwd25@gmail.com.
 
 ## ⚡ Fun Fact
