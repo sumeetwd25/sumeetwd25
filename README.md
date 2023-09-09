@@ -1,4 +1,3 @@
-
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/sumeet-wadile-421a3727a) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/sumeetwd25) 
 
@@ -8,10 +7,11 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=sumeetwd25&theme=default&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=sumeetwd25&theme=default&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
+## Visitors:
 [![](https://visitcount.itsvg.in/api?id=sumeetwd25&icon=0&color=5)](https://visitcount.itsvg.in)
 
-  ## 💰 You can help me by Donating
-  [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/wadilesumeet) 
+## 💰 You can help me by Donating
+[![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/wadilesumeet) 
 
   
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
