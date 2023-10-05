@@ -8,7 +8,8 @@ Sumeet</h1>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=sumeetwd25&theme=default&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=sumeetwd25&theme=default&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-<p>Connect with me on
+### Connect with me on:
+<p>
 <br>	
 <a target="_blank" href="https://www.linkedin.com/in/sumeet-wadile-421a3727a/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"></img></a>
 &emsp;                                                                    
